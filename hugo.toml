@@ -1,0 +1,37 @@
+baseURL = 'https://musafirsaid.github.io/'
+locale = 'en-us'
+title = 'মুসাফির নোটস'
+theme = "PaperMod"
+
+[params]
+description = "প্রবাস জীবন, পথচলা আর কিছু কথা"
+
+[[menu.main]]
+name = "হোম"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "প্রবাস"
+url = "/probash/"
+weight = 2
+
+[[menu.main]]
+name = "নোটস"
+url = "/notes/"
+weight = 3
+
+[[menu.main]]
+name = "গল্প"
+url = "/stories/"
+weight = 4
+
+[[menu.main]]
+name = "বাণী"
+url = "/quotes/"
+weight = 5
+
+[[menu.main]]
+name = "আমাদের সম্পর্কে"
+url = "/about/"
+weight = 6
