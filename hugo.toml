@@ -32,6 +32,11 @@ url = "/quotes/"
 weight = 5
 
 [[menu.main]]
+name = "ইসলামিক"
+url = "/islamic/"
+weight = 6
+
+[[menu.main]]
 name = "আমাদের সম্পর্কে"
 url = "/about/"
-weight = 6
+weight = 7
