@@ -5,6 +5,8 @@ theme = "PaperMod"
 
 [params]
 description = "প্রবাস জীবন, পথচলা আর কিছু কথা"
+disableSpecial1stPost = true
+defaultTheme = "light"
 
 [[menu.main]]
 name = "হোম"
