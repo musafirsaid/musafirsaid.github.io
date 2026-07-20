@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>মুসাফির নোটস</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on মুসাফির নোটস</description>
+    <title>ইসলামিক on মুসাফির নোটস</title>
+    <link>http://localhost:1313/islamic/</link>
+    <description>Recent content in ইসলামিক on মুসাফির নোটস</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 19:35:46 +0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>মরিশাস পরিচিতিঃ প্রকৃতি, মানুষ ও সংস্কৃতির এক অনন্য দেশ</title>
-      <link>http://localhost:1313/probash/mauritius-porichiti/</link>
-      <pubDate>Mon, 20 Jul 2026 19:35:46 +0400</pubDate>
-      <guid>http://localhost:1313/probash/mauritius-porichiti/</guid>
-      <description>মরিশাসের ইতিহাস, ভাষা, সংস্কৃতি, ধর্ম, অর্থনীতি, আবহাওয়া, দর্শনীয় স্থান, খাবার এবং বাংলাদেশ থেকে যাতায়াতসহ দেশটির একটি সংক্ষিপ্ত পরিচিতি।</description>
-    </item>
+    <lastBuildDate>Sun, 19 Jul 2026 23:04:42 +0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/islamic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ইসলামের দৃষ্টিতে জ্বরকে গালি দেওয়া কেন নিষেধ?</title>
       <link>http://localhost:1313/islamic/jorke-gali-dewa-nishedh/</link>
@@ -37,16 +30,6 @@
 &lt;li&gt;
 &lt;p&gt;প্রিয় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন, যে ব্যক্তি কিতাবে আমার উপর দরুদ পাক লিখেছে, যতক্ষণ পর্যন্ত আমার নাম তাতে থাকবে, ফিরিশতারা তার জন্য ক্ষমা প্রার্থনা করতে থাকবে।
 — [মুজাম আওসাত, ১ম খণ্ড ৮৯৭ পৃষ্ঠা, হাদিস নং- ১৮৩৫]&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>আমাদের সম্পর্কে</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;সবগতম&#34;&gt;স্বাগতম&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;মুসাফির নোটস&lt;/strong&gt; আমার ব্যক্তিগত লেখালেখির একটি ছোট্ট প্রয়াস।&lt;/p&gt;
-&lt;p&gt;জীবনের পথচলায় পাওয়া অভিজ্ঞতা, প্রবাস জীবনের নানা অনুভূতি, ইসলামিক বিষয় নিয়ে চিন্তা ও উপলব্ধি, প্রযুক্তি এবং Linux-এর মতো নতুন বিষয়গুলোর সঙ্গে পরিচিত হওয়ার যাত্রা—এসব নিয়েই সাজানো এই ব্লগ।&lt;/p&gt;
-&lt;p&gt;এটি শুধু একটি ব্লগ নয়; বরং আমার শেখা, ভাবনা ও অভিজ্ঞতাগুলো সংরক্ষণ করার একটি জায়গা। আশা করি, আমার লেখা কারও জন্য উপকারী হবে, নতুন কিছু জানতে সাহায্য করবে অথবা জীবনের কোনো মুহূর্তে অনুপ্রেরণা যোগাবে।&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

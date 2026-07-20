@@ -3,29 +3,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:42625/notes/durood-sharifer-fazilat/</loc>
+    <loc>http://localhost:1313/probash/mauritius-porichiti/</loc>
+    <lastmod>2026-07-20T19:35:46+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-07-20T19:35:46+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/islamic/</loc>
+    <lastmod>2026-07-19T23:04:42+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/islamic/jorke-gali-dewa-nishedh/</loc>
+    <lastmod>2026-07-19T23:04:42+04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/islamic/durood-sharifer-fazilat/</loc>
     <lastmod>2026-07-18T19:06:01+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:42625/</loc>
-    <lastmod>2026-07-18T19:06:01+04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:42625/quotes/</loc>
+    <loc>http://localhost:1313/quotes/</loc>
     <lastmod>2026-07-18T18:42:18+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:42625/stories/</loc>
+    <loc>http://localhost:1313/stories/</loc>
     <lastmod>2026-07-18T18:42:05+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:42625/notes/</loc>
+    <loc>http://localhost:1313/notes/</loc>
     <lastmod>2026-07-18T18:41:43+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:42625/probash/</loc>
+    <loc>http://localhost:1313/probash/</loc>
     <lastmod>2026-07-18T18:41:24+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:42625/about/</loc>
-    <lastmod>2026-07-17T19:42:22+04:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:42625/categories/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:42625/tags/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url>
 </urlset>

@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>প্রবাস on মুসাফির নোটস</title>
-    <link>http://localhost:42625/probash/</link>
+    <link>http://localhost:1313/probash/</link>
     <description>Recent content in প্রবাস on মুসাফির নোটস</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:42625/probash/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jul 2026 19:35:46 +0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/probash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>মরিশাস পরিচিতিঃ প্রকৃতি, মানুষ ও সংস্কৃতির এক অনন্য দেশ</title>
+      <link>http://localhost:1313/probash/mauritius-porichiti/</link>
+      <pubDate>Mon, 20 Jul 2026 19:35:46 +0400</pubDate>
+      <guid>http://localhost:1313/probash/mauritius-porichiti/</guid>
+      <description>মরিশাসের ইতিহাস, ভাষা, সংস্কৃতি, ধর্ম, অর্থনীতি, আবহাওয়া, দর্শনীয় স্থান, খাবার এবং বাংলাদেশ থেকে যাতায়াতসহ দেশটির একটি সংক্ষিপ্ত পরিচিতি।</description>
+    </item>
   </channel>
 </rss>
